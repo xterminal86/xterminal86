@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=xterminal86) 
+![](https://komarev.com/ghpvc/?username=xterminal86)
 
 ## Some statistics 📈
 
