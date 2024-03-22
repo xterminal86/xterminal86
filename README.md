@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=xterminal86)
-
 ## Some statistics 📈
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xterminal86&theme=onedark&title=Repositories,Commits,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
